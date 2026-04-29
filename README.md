@@ -45,3 +45,24 @@ O fluxo de dados do ODA segue as melhores práticas de Engenharia de Dados, divi
 
 5. **Automação e Deploy:**
    * O pipeline de CI/CD via **GitHub Actions** garante que qualquer alteração nos scripts de extração seja testada e implementada automaticamente na nuvem, sem necessidade de intervenção manual.
+
+
+## 📥 Como Rodar a Ingestão de Dados
+
+A ingestão de dados do ODA é projetada para ser flexível, permitindo a execução manual durante o desenvolvimento ou a execução em nuvem para produção. 
+
+### 1. Execução Local (Desenvolvimento e Testes)
+Para rodar os pipelines na sua máquina, certifique-se de que o ambiente virtual está ativo, as dependências do `requirements.txt` estão instaladas e o seu terminal está autenticado no GCP (via `gcloud auth application-default login`).
+
+Execute o script correspondente ao conjunto de dados que deseja sincronizar. Exemplo com os dados epidemiológicos:
+
+```bash
+# Executa o pipeline de extração da API e carga no BigQuery
+python scripts/sync_dengue_data.py
+```
+
+Execução na nuvem:
+
+# Dispara o job de ingestão de dados epidemiológicos diretamente no GCP
+gcloud run jobs execute oda-dengue-sync --region southamerica-east1
+
