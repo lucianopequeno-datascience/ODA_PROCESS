@@ -66,3 +66,16 @@ Execução na nuvem:
 # Dispara o job de ingestão de dados epidemiológicos diretamente no GCP
 gcloud run jobs execute oda-dengue-sync --region southamerica-east1
 
+
+
+PAINÉIS
+
+
+<img width="1065" height="601" alt="Captura de tela 2026-05-03 154933" src="https://github.com/user-attachments/assets/4e81462a-0943-4bdb-8db7-2d22b8ca3479" />
+
+<img width="1070" height="604" alt="Captura de tela 2026-05-03 154903" src="https://github.com/user-attachments/assets/cd66cf1c-9f38-4ec8-8056-728783590994" />
+
+<img width="1073" height="602" alt="Captura de tela 2026-05-03 154836" src="https://github.com/user-attachments/assets/18754506-a80e-4d34-acc1-fb313b001dd8" />
+
+
+
