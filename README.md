@@ -31,7 +31,7 @@ O projeto foi construído utilizando uma arquitetura moderna e *serverless*, pri
 O fluxo de dados do ODA segue as melhores práticas de Engenharia de Dados, dividido nas seguintes camadas:
 
 1. **Ingestão (Extract & Load):** * Scripts em Python são executados periodicamente via **Cloud Run Jobs** (ex: `oda-dengue-sync`).
-   * Os dados são extraídos de APIs governamentais (como o DATASUS/InfoDengue) e carregados na camada *Landing* (bronze) do BigQuery.
+   * Os dados são extraídos de APIs governamentais (como o DATASUS/InfoDengue) e carregados na camada *Landing* (bronze) do Cloud Storage (DataLake).
 
 2. **Armazenamento e Transformação (Transform):**
    * Os dados brutos são limpos, tratados (anonimização de PII) e modelados no **BigQuery**.
