@@ -71,15 +71,21 @@ gcloud run jobs execute oda-dengue-sync --region southamerica-east1
 # PAINÉIS
 
 
-<img width="1065" height="601" alt="Captura de tela 2026-05-03 154933" src="https://github.com/user-attachments/assets/4e81462a-0943-4bdb-8db7-2d22b8ca3479" />
+<img width="1121" height="630" alt="image" src="https://github.com/user-attachments/assets/13ca103d-744b-4d5b-a9d9-638e03f8164b" />
 
-----
+<img width="1118" height="631" alt="image" src="https://github.com/user-attachments/assets/cf798b57-8954-45bb-be7a-c905a1641c6b" />
 
-<img width="1070" height="604" alt="Captura de tela 2026-05-03 154903" src="https://github.com/user-attachments/assets/cd66cf1c-9f38-4ec8-8056-728783590994" />
+<img width="1122" height="628" alt="image" src="https://github.com/user-attachments/assets/b3767326-f4d3-4db8-9bf7-0076f56ff454" />
 
-----
+<img width="1127" height="633" alt="image" src="https://github.com/user-attachments/assets/e9df569f-4f7b-4fe3-945e-3bce4319fe29" />
 
-<img width="1073" height="602" alt="Captura de tela 2026-05-03 154836" src="https://github.com/user-attachments/assets/18754506-a80e-4d34-acc1-fb313b001dd8" />
+<img width="1126" height="630" alt="image" src="https://github.com/user-attachments/assets/66d9ab93-09b0-4a86-bf26-219390edaac1" />
 
+<img width="1117" height="632" alt="image" src="https://github.com/user-attachments/assets/c9daaf70-b9b1-4b0d-8ea2-b2ddb32e82c6" />
 
+<img width="1121" height="635" alt="image" src="https://github.com/user-attachments/assets/d3ba3565-b812-44b8-bc50-636f1005bee1" />
+
+<img width="1122" height="635" alt="image" src="https://github.com/user-attachments/assets/a6015850-261d-407f-b9ef-15c350aec883" />
+
+<img width="1123" height="635" alt="image" src="https://github.com/user-attachments/assets/6d5924ae-f9a6-4ba4-90c6-6663e02a7aee" />
 
